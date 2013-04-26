@@ -67,6 +67,7 @@ Version 2.1.2
 - added input[type="email"] for updated wpcf7
 - updated CSS for pagination, removed height fix for multiple lines
 - added transparency to menu a
+- updated demo site address to sutra.systematick.com
 
 Version 2.1.1
 - Removed .git directory
