@@ -512,8 +512,8 @@ a.more-link:hover{
 
 /* pagination */
 #pagination{
-	height: 30px;
 	font-size: .8125em;
+	line-height: 2.5em;
 }
 #pagination .page-numbers{
 	border: 1px solid #a6a6a6;
@@ -540,6 +540,7 @@ a.more-link:hover{
 .category-gallery .size-thumbnail img {
 	margin-bottom: 0;
 }
+
 
 /* -- Attachment pages -- */
 .attachment .entry-content .entry-caption {
@@ -923,6 +924,7 @@ h3#reply-title {
 	font-size: 1.1em;
 	display: block;
 	background: #d5d5d5;
+	background: rgba(0,0,0,0.1);
 	margin: 5px 0;
 	padding: .35em 1em;
 	-webkit-transition: all 0.3s ease-in;
@@ -1002,6 +1004,7 @@ h3#reply-title {
 
 /* -- Contact Form 7 & Submit button styling - http://wordpress.org/extend/plugins/contact-form-7/ -- */
 .wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
 .wpcf7 textarea,
 #respond input[type="text"],
 #respond textarea,
@@ -1013,7 +1016,8 @@ h3#reply-title {
 	line-height: 1.1em;
 	background: #fff !important;
 }
-.wpcf7 input[type="text"]{
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"]{
 	width: 60%;
 }
 #respond input[type="text"],
