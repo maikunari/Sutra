@@ -63,6 +63,9 @@ Internet Explorer 8,9,10
 
 === Release Notes ===
 
+Version 2.1.3
+- fixed table styles, were collapsing.
+
 Version 2.1.2
 - added input[type="email"] for updated wpcf7
 - updated CSS for pagination, removed height fix for multiple lines
