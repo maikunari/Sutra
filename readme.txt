@@ -1,4 +1,4 @@
-=== Sutra 2.1.2 ===
+=== Sutra 2.1.3 ===
 Contributors:  maikunari
 Donate link:  http://maikunari.com
 Tags: two-columns, light, featured-images, fixed-width, custom-menu
