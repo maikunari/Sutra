@@ -115,7 +115,7 @@ Version 1.0 - Initial Release
 === Support ===
 
 Feel free to contact me with any bugs or questions 
-at http://maikunari.com/contact/
+at https://sonicpixel.ca/contact
 
 If you use the theme please drop me a line and let me know, I'd love to 
 see what you do with it.

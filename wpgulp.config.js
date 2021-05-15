@@ -21,7 +21,7 @@ const injectChanges = true;
 
 // >>>>> Style options.
 // Path to main .scss file.
-const styleSRC = './assets/sass/style.scss';
+const styleSRC = './assets/css/style.scss';
 
 // Path to place the compiled CSS file. Default set to root folder.
 const styleDestination = './';
@@ -110,16 +110,16 @@ const zipIgnoreGlob = [
 
 // >>>>> Translation options.
 // Your text domain here.
-const textDomain = 'sutra';
+const textDomain = 'WPGULP';
 
 // Name of the translation file.
-const translationFile = 'sutra.pot';
+const translationFile = 'WPGULP.pot';
 
 // Where to save the translation files.
 const translationDestination = './languages';
 
 // Package name.
-const packageName = 'sutra';
+const packageName = 'WPGULP';
 
 // Where can users report bugs.
 const bugReport = 'https://AhmadAwais.com/contact/';
