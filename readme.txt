@@ -1,9 +1,9 @@
-=== Sutra 2.1.3 ===
+=== Sutra 3 ===
 Contributors:  maikunari
 Donate link:  http://maikunari.com
 Tags: two-columns, light, featured-images, fixed-width, custom-menu
-Requires: 3.0
-Tested up to: 3.5.1
+Tested up to: 5.7.2
+Requires PHP: 5.6
 
 Minimal theme focussed on simplicity, putting your writing front and center. 
 
@@ -54,14 +54,15 @@ number of posts on a page reaches the number set in Settings > Reading "Blog pag
 then the page numbers will automatically appear.
 
 
-=== Browser Support ===
-
-Tested in Firefox 20
-Safari 6
-Internet Explorer 8,9,10
 
 
 === Release Notes ===
+
+Version 3
+Major Update
+- coverted css to scss files
+- updated file structure
+
 
 Version 2.1.3
 - fixed table styles, were collapsing.
