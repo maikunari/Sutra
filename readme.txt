@@ -1,6 +1,6 @@
 === Sutra 3 ===
 Contributors:  maikunari
-Donate link:  http://maikunari.com
+Author link:  https://sonicpixel.ca
 Tags: two-columns, light, featured-images, fixed-width, custom-menu
 Tested up to: 5.7.2
 Requires PHP: 5.6
