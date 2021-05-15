@@ -1,4 +1,8 @@
-<?php /* If there are no posts to display, such as an empty archive page */ ?>
+<?php 
+
+/* Sutra 3 // loop.php */
+
+/* If there are no posts to display, such as an empty archive page */ ?>
 <?php if ( ! have_posts() ) : ?>
 	<div id="post-0" class="post error404 not-found">
 		<h1 class="entry-title"><?php _e( 'Not Found', 'sutra' ); ?></h1>

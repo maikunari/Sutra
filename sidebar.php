@@ -1,3 +1,5 @@
+<?php /* Sutra 3 // sidebar.php */ ?>
+
 
 		<div id="sidebar" class="widget-area" role="complementary">
 			<ul class="xoxo">

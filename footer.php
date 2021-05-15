@@ -1,3 +1,6 @@
+<?php /* Sutra 3 // footer.php */ ?>
+
+
 	</div><!-- #main -->
 
 	<div id="footer" role="contentinfo">

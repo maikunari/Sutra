@@ -1,4 +1,8 @@
-<?php get_header(); ?>
+<?php 
+
+/* Sutra 3 // attachment.php */
+
+get_header(); ?>
 
 		<div id="container" class="single-attachment main-content">
 			<div id="content" role="main">
